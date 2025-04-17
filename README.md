@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Abdulkadir Turan]! 
+# 👋 Merhaba, ben Abdulkadir Turan! 
 [Buraya kısa bir tanım ekle: örneğin "Geliştirici • Öğrenci • Üretmeyi seven bir insan"]
 
 ## 💻 Hakkımda
