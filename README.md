@@ -1,5 +1,5 @@
 # 👋 Merhaba, ben Abdulkadir Turan! 
-[Buraya kısa bir tanım ekle: örneğin "Geliştirici • Öğrenci • Üretmeyi seven bir insan"]
+Geliştirici  • Üretmeyi seven bir insan
 
 ## 💻 Hakkımda
 - 🎓 Üsküdar Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
