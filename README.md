@@ -3,7 +3,7 @@ Developer • A person who loves to create
 
 ## 💻 About Me
 - 🎓 I'm a Computer Engineering student at Üsküdar University.  
-- 🌱 Currently, I'm working on: `Java Spring Boot`, `React`, `DevOps`, `.NET`, `Linux`
+- 🌱 Currently, I'm working on:  `Angular`, `DevOps`, `.NET`, `Linux`
 - 🚀 I love learning new things and developing projects.
 
 ## 🔧 Technologies I Use
